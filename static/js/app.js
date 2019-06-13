@@ -32,7 +32,6 @@ function buildMetadata(sample) {
 
     // BONUS: Build the Gauge Chart
     // buildGauge(data.WFREQ);
-}
 
 function buildCharts(sample) {
 
@@ -87,7 +86,6 @@ function buildCharts(sample) {
       });
     });   
   }
-}
 
 function init() {
   // Grab a reference to the dropdown select element
